@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Waleed <a href="https://twitter.com/WaleedTweetX">
-<img  alt="Waleed Ahmad | Twitter" width="15px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<img  alt="Waleed Ahmad | Twitter" width="15px" src="https://img.icons8.com/?size=512&id=13963&format=svg" />
 </a>
 <a href="https://www.linkedin.com/in/waleed-ahmad-a60b926b/">
 <img alt="Waleeds's LinkedIN" width="15px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
