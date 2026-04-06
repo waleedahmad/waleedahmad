@@ -5,9 +5,7 @@ I'm Waleed <a href="https://twitter.com/WaleedTweetX">
 </a>
 <a href="https://www.linkedin.com/in/waleed-ahmad-a60b926b/">
 <img alt="Waleeds's LinkedIN" width="15px" src="https://img.icons8.com/?size=512&id=13930&format=png"/>
-</a>. I'm a freelancer developer. 
-
-![Waleed's GitHub stats](https://github-readme-stats.vercel.app/api?username=waleedahmad&show_icons=true&theme=radical&count_private=true)
+</a>. I'm a software engineer.
 
 **Languages & Tools :**
 
